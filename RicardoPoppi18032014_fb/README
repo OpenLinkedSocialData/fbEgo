@@ -1,0 +1,16 @@
+This repo delivers RDF data from the facebook
+friendship network of RicardoPoppi18032014 collected around 2014-03-18.
+1024 individuals with metadata ['sex', 'uid', 'locale', 'name', 'agerank']
+and 17234 friendships constitute the friendship network in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/RicardoPoppi18032014_fb/rdf/RicardoPoppi18032014_fbFriendship.owl
+(anonymized: False).
+Metadata for discovery is in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/RicardoPoppi18032014_fb/rdf/RicardoPoppi18032014_fbMeta.owl
+Original files:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/RicardoPoppi18032014_fb/base/RicardoPoppi18032014.gdf
+Ego network: True
+Friendship network: True
+Interaction network: False
+All files should be available at the git repository:
+https://github.com/OpenLinkedSocialData/fbEgo/tree/master/RicardoPoppi18032014_fb
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#PedroPauloRocha10032013_fb">
+    <fb:originalFriendshipFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/PedroPauloRocha10032013_fb/base/PedroPauloRocha10032013.gdf</fb:originalFriendshipFile>
+    <fb:ego rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:ego>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">name</fb:friendAttribute>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/fbEgo/tree/master/PedroPauloRocha10032013_fb</po:availableAt>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">836944624</fb:uid>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PedroPauloRocha10032013</po:donatedBy>
+    <po:friendshipTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/PedroPauloRocha10032013_fb/rdf/PedroPauloRocha10032013_fbFriendship.ttl</po:friendshipTTLFile>
+    <po:friendshipXMLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/PedroPauloRocha10032013_fb/rdf/PedroPauloRocha10032013_fbFriendship.owl</po:friendshipXMLFile>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">agerank</fb:friendAttribute>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-03-10</po:createdAt>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot PedroPauloRocha10032013_fb</rdfs:label>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uid</fb:friendAttribute>
+    <fb:nFriends rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1932</fb:nFriends>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-10T05:53:29.719096</po:triplifiedIn>
+    <po:socialProtocol rdf:resource="http://purl.org/socialparticipation/po/Platform#Facebook"/>
+    <fb:friendship rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:friendship>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sex</fb:friendAttribute>
+    <fb:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dpedropaulorocha</fb:sid>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/PedroPauloRocha10032013_fb/rdf/PedroPauloRocha10032013_fbMeta.owl</po:discorveryRDFFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facebook network from PedroPauloRocha10032013 . Ego: True. Friendship: True. Interaction: False.</rdfs:comment>
+    <fb:nFriendships rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50591</fb:nFriendships>
+    <fb:fAnon rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:fAnon>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/PedroPauloRocha10032013_fb/rdf/PedroPauloRocha10032013_fbMeta.ttl</po:discoveryTTLFile>
+    <fb:interaction rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:interaction>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wallcount</fb:friendAttribute>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">locale</fb:friendAttribute>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Platform#Facebook">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Platform"/>
+  </rdf:Description>
+</rdf:RDF>

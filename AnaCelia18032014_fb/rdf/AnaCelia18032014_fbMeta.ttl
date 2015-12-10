@@ -1,0 +1,37 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#AnaCelia18032014_fb> a po:Snapshot ;
+    rdfs:label "Snapshot AnaCelia18032014_fb"^^xsd:string ;
+    fb:ego true ;
+    fb:fAnon false ;
+    fb:friendAttribute "agerank"^^xsd:string,
+        "locale"^^xsd:string,
+        "name"^^xsd:string,
+        "sex"^^xsd:string,
+        "uid"^^xsd:string ;
+    fb:friendship true ;
+    fb:interaction false ;
+    fb:nFriends 753 ;
+    fb:nFriendships 12167 ;
+    fb:originalFriendshipFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/AnaCelia18032014_fb/base/AnaCelia18032014.gdf"^^xsd:string ;
+    fb:uid "1450596979"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/OpenLinkedSocialData/fbEgo/tree/master/AnaCelia18032014_fb"^^xsd:string ;
+    po:createdAt "2014-03-18"^^xsd:date ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/AnaCelia18032014_fb/rdf/AnaCelia18032014_fbMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/AnaCelia18032014_fb/rdf/AnaCelia18032014_fbMeta.ttl"^^xsd:string ;
+    po:donatedBy "AnaCelia18032014"^^xsd:string ;
+    po:friendshipTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/AnaCelia18032014_fb/rdf/AnaCelia18032014_fbFriendship.ttl"^^xsd:string ;
+    po:friendshipXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/AnaCelia18032014_fb/rdf/AnaCelia18032014_fbFriendship.owl"^^xsd:string ;
+    po:socialProtocol <http://purl.org/socialparticipation/po/Platform#Facebook> ;
+    po:triplifiedIn "2015-12-10T06:03:53.417637"^^xsd:datetime ;
+    rdfs:comment "facebook network from AnaCelia18032014 . Ego: True. Friendship: True. Interaction: False."^^xsd:string .
+
+<http://purl.org/socialparticipation/po/Platform#Facebook> a po:Platform .
+

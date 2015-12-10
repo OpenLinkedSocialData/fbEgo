@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#ElenaGarnelo04032014_fb">
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ElenaGarnelo04032014</po:donatedBy>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-10T06:04:31.140029</po:triplifiedIn>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">name</fb:friendAttribute>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">agerank</fb:friendAttribute>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uid</fb:friendAttribute>
+    <fb:interaction rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:interaction>
+    <fb:ego rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:ego>
+    <po:socialProtocol rdf:resource="http://purl.org/socialparticipation/po/Platform#Facebook"/>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/ElenaGarnelo04032014_fb/rdf/ElenaGarnelo04032014_fbMeta.owl</po:discorveryRDFFile>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/ElenaGarnelo04032014_fb/rdf/ElenaGarnelo04032014_fbMeta.ttl</po:discoveryTTLFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:friendshipXMLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/ElenaGarnelo04032014_fb/rdf/ElenaGarnelo04032014_fbFriendship.owl</po:friendshipXMLFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facebook network from ElenaGarnelo04032014 . Ego: True. Friendship: True. Interaction: False.</rdfs:comment>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/fbEgo/tree/master/ElenaGarnelo04032014_fb</po:availableAt>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">locale</fb:friendAttribute>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1361932044</fb:uid>
+    <fb:fAnon rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:fAnon>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sex</fb:friendAttribute>
+    <po:friendshipTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/ElenaGarnelo04032014_fb/rdf/ElenaGarnelo04032014_fbFriendship.ttl</po:friendshipTTLFile>
+    <fb:friendship rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:friendship>
+    <fb:nFriends rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">940</fb:nFriends>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-04</po:createdAt>
+    <fb:nFriendships rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21723</fb:nFriendships>
+    <fb:originalFriendshipFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/ElenaGarnelo04032014_fb/base/ElenaGarnelo04032014.gdf</fb:originalFriendshipFile>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot ElenaGarnelo04032014_fb</rdfs:label>
+    <fb:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">elena.garnelo</fb:sid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Platform#Facebook">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Platform"/>
+  </rdf:Description>
+</rdf:RDF>
