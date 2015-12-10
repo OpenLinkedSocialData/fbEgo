@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#JoaoMeirelles25022014_fb">
+    <po:socialProtocol rdf:resource="http://purl.org/socialparticipation/po/Platform#Facebook"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot JoaoMeirelles25022014_fb</rdfs:label>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/JoaoMeirelles25022014_fb/rdf/JoaoMeirelles25022014_fbMeta.owl</po:discorveryRDFFile>
+    <fb:fAnon rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:fAnon>
+    <fb:ego rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:ego>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/fbEgo/tree/master/JoaoMeirelles25022014_fb</po:availableAt>
+    <fb:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">joao.meirelles.10</fb:sid>
+    <po:friendshipXMLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/JoaoMeirelles25022014_fb/rdf/JoaoMeirelles25022014_fbFriendship.owl</po:friendshipXMLFile>
+    <po:friendshipTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/JoaoMeirelles25022014_fb/rdf/JoaoMeirelles25022014_fbFriendship.ttl</po:friendshipTTLFile>
+    <fb:nFriends rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">825</fb:nFriends>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sex</fb:friendAttribute>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uid</fb:friendAttribute>
+    <fb:originalFriendshipFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/JoaoMeirelles25022014_fb/base/JoaoMeirelles25022014.gdf</fb:originalFriendshipFile>
+    <fb:nFriendships rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11649</fb:nFriendships>
+    <fb:interaction rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:interaction>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1194439813</fb:uid>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-02-25</po:createdAt>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">name</fb:friendAttribute>
+    <fb:friendship rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:friendship>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">locale</fb:friendAttribute>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JoaoMeirelles25022014</po:donatedBy>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-10T19:08:03.990027</po:triplifiedIn>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/JoaoMeirelles25022014_fb/rdf/JoaoMeirelles25022014_fbMeta.ttl</po:discoveryTTLFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facebook network from JoaoMeirelles25022014 . Ego: True. Friendship: True. Interaction: False.</rdfs:comment>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">agerank</fb:friendAttribute>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Platform#Facebook">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Platform"/>
+  </rdf:Description>
+</rdf:RDF>
