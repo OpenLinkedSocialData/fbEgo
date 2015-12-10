@@ -1,0 +1,16 @@
+This repo delivers RDF data from the facebook
+friendship network of RafaelReinehr09042013 collected around 2013-04-09.
+2297 individuals with metadata ['locale', 'wallcount', 'agerank', 'sex', 'uid', 'name']
+and 39586 friendships constitute the friendship network in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/RafaelReinehr09042013_fb/rdf/RafaelReinehr09042013_fbFriendship.owl
+(anonymized: False).
+Metadata for discovery is in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/RafaelReinehr09042013_fb/rdf/RafaelReinehr09042013_fbMeta.owl
+Original files:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/RafaelReinehr09042013_fb/base/RafaelReinehr09042013.gdf
+Ego network: True
+Friendship network: True
+Interaction network: False
+All files should be available at the git repository:
+https://github.com/OpenLinkedSocialData/fbEgo/tree/master/RafaelReinehr09042013_fb
+

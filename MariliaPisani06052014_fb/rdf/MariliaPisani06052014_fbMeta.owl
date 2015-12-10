@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#MariliaPisani06052014_fb">
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/MariliaPisani06052014_fb/rdf/MariliaPisani06052014_fbMeta.ttl</po:discoveryTTLFile>
+    <po:friendshipXMLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/MariliaPisani06052014_fb/rdf/MariliaPisani06052014_fbFriendship.owl</po:friendshipXMLFile>
+    <fb:friendship rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:friendship>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-10T07:56:36.854328</po:triplifiedIn>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">locale</fb:friendAttribute>
+    <po:socialProtocol rdf:resource="http://purl.org/socialparticipation/po/Platform#Facebook"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot MariliaPisani06052014_fb</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facebook network from MariliaPisani06052014 . Ego: True. Friendship: True. Interaction: False.</rdfs:comment>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">agerank</fb:friendAttribute>
+    <fb:interaction rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:interaction>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-05-06</po:createdAt>
+    <fb:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">marilia.pisani</fb:sid>
+    <po:friendshipTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/MariliaPisani06052014_fb/rdf/MariliaPisani06052014_fbFriendship.ttl</po:friendshipTTLFile>
+    <fb:fAnon rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:fAnon>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/fbEgo/tree/master/MariliaPisani06052014_fb</po:availableAt>
+    <fb:nFriends rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1701</fb:nFriends>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000812625301</fb:uid>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">name</fb:friendAttribute>
+    <fb:originalFriendshipFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/MariliaPisani06052014_fb/base/MariliaPisani06052014.gdf</fb:originalFriendshipFile>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/MariliaPisani06052014_fb/rdf/MariliaPisani06052014_fbMeta.owl</po:discorveryRDFFile>
+    <fb:ego rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:ego>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MariliaPisani06052014</po:donatedBy>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uid</fb:friendAttribute>
+    <fb:nFriendships rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27581</fb:nFriendships>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sex</fb:friendAttribute>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Platform#Facebook">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Platform"/>
+  </rdf:Description>
+</rdf:RDF>

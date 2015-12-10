@@ -1,0 +1,16 @@
+This repo delivers RDF data from the facebook
+friendship network of VJPixel23052014 collected around 2014-05-23.
+1800 individuals with metadata ['sex', 'uid', 'locale', 'name', 'agerank']
+and 54752 friendships constitute the friendship network in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/VJPixel23052014_fb/rdf/VJPixel23052014_fbFriendship.owl
+(anonymized: False).
+Metadata for discovery is in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/VJPixel23052014_fb/rdf/VJPixel23052014_fbMeta.owl
+Original files:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/VJPixel23052014_fb/base/VJPixel23052014.gdf
+Ego network: True
+Friendship network: True
+Interaction network: False
+All files should be available at the git repository:
+https://github.com/OpenLinkedSocialData/fbEgo/tree/master/VJPixel23052014_fb
+

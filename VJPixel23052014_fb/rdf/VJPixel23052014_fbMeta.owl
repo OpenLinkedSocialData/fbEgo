@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#VJPixel23052014_fb">
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">agerank</fb:friendAttribute>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uid</fb:friendAttribute>
+    <fb:nFriends rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1800</fb:nFriends>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/VJPixel23052014_fb/rdf/VJPixel23052014_fbMeta.ttl</po:discoveryTTLFile>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">614664810</fb:uid>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VJPixel23052014</po:donatedBy>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/VJPixel23052014_fb/rdf/VJPixel23052014_fbMeta.owl</po:discorveryRDFFile>
+    <po:friendshipTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/VJPixel23052014_fb/rdf/VJPixel23052014_fbFriendship.ttl</po:friendshipTTLFile>
+    <fb:interaction rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:interaction>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot VJPixel23052014_fb</rdfs:label>
+    <fb:friendship rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:friendship>
+    <po:friendshipXMLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/VJPixel23052014_fb/rdf/VJPixel23052014_fbFriendship.owl</po:friendshipXMLFile>
+    <fb:ego rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:ego>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">name</fb:friendAttribute>
+    <fb:fAnon rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:fAnon>
+    <po:socialProtocol rdf:resource="http://purl.org/socialparticipation/po/Platform#Facebook"/>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sex</fb:friendAttribute>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/fbEgo/tree/master/VJPixel23052014_fb</po:availableAt>
+    <fb:nFriendships rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54752</fb:nFriendships>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-10T07:56:55.873370</po:triplifiedIn>
+    <fb:originalFriendshipFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/VJPixel23052014_fb/base/VJPixel23052014.gdf</fb:originalFriendshipFile>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-05-23</po:createdAt>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facebook network from VJPixel23052014 . Ego: True. Friendship: True. Interaction: False.</rdfs:comment>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">locale</fb:friendAttribute>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Platform#Facebook">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Platform"/>
+  </rdf:Description>
+</rdf:RDF>

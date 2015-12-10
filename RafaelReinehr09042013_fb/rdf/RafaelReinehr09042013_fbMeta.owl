@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#RafaelReinehr09042013_fb">
+    <po:friendshipXMLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/RafaelReinehr09042013_fb/rdf/RafaelReinehr09042013_fbFriendship.owl</po:friendshipXMLFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facebook network from RafaelReinehr09042013 . Ego: True. Friendship: True. Interaction: False.</rdfs:comment>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/RafaelReinehr09042013_fb/rdf/RafaelReinehr09042013_fbMeta.owl</po:discorveryRDFFile>
+    <fb:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">reinehr</fb:sid>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/RafaelReinehr09042013_fb/rdf/RafaelReinehr09042013_fbMeta.ttl</po:discoveryTTLFile>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot RafaelReinehr09042013_fb</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/fbEgo/tree/master/RafaelReinehr09042013_fb</po:availableAt>
+    <po:friendshipTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/RafaelReinehr09042013_fb/rdf/RafaelReinehr09042013_fbFriendship.ttl</po:friendshipTTLFile>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uid</fb:friendAttribute>
+    <fb:nFriends rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2297</fb:nFriends>
+    <fb:originalFriendshipFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/RafaelReinehr09042013_fb/base/RafaelReinehr09042013.gdf</fb:originalFriendshipFile>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-10T07:56:45.228915</po:triplifiedIn>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <fb:friendship rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:friendship>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wallcount</fb:friendAttribute>
+    <fb:ego rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:ego>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RafaelReinehr09042013</po:donatedBy>
+    <fb:interaction rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:interaction>
+    <fb:nFriendships rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39586</fb:nFriendships>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">814059950</fb:uid>
+    <po:socialProtocol rdf:resource="http://purl.org/socialparticipation/po/Platform#Facebook"/>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-04-09</po:createdAt>
+    <fb:fAnon rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:fAnon>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sex</fb:friendAttribute>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">agerank</fb:friendAttribute>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">locale</fb:friendAttribute>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">name</fb:friendAttribute>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Platform#Facebook">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Platform"/>
+  </rdf:Description>
+</rdf:RDF>

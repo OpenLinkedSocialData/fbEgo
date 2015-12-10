@@ -1,0 +1,39 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#RafaelReinehr09042013_fb> a po:Snapshot ;
+    rdfs:label "Snapshot RafaelReinehr09042013_fb"^^xsd:string ;
+    fb:ego true ;
+    fb:fAnon false ;
+    fb:friendAttribute "agerank"^^xsd:string,
+        "locale"^^xsd:string,
+        "name"^^xsd:string,
+        "sex"^^xsd:string,
+        "uid"^^xsd:string,
+        "wallcount"^^xsd:string ;
+    fb:friendship true ;
+    fb:interaction false ;
+    fb:nFriends 2297 ;
+    fb:nFriendships 39586 ;
+    fb:originalFriendshipFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/RafaelReinehr09042013_fb/base/RafaelReinehr09042013.gdf"^^xsd:string ;
+    fb:sid "reinehr"^^xsd:string ;
+    fb:uid "814059950"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/OpenLinkedSocialData/fbEgo/tree/master/RafaelReinehr09042013_fb"^^xsd:string ;
+    po:createdAt "2013-04-09"^^xsd:date ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/RafaelReinehr09042013_fb/rdf/RafaelReinehr09042013_fbMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/RafaelReinehr09042013_fb/rdf/RafaelReinehr09042013_fbMeta.ttl"^^xsd:string ;
+    po:donatedBy "RafaelReinehr09042013"^^xsd:string ;
+    po:friendshipTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/RafaelReinehr09042013_fb/rdf/RafaelReinehr09042013_fbFriendship.ttl"^^xsd:string ;
+    po:friendshipXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/RafaelReinehr09042013_fb/rdf/RafaelReinehr09042013_fbFriendship.owl"^^xsd:string ;
+    po:socialProtocol <http://purl.org/socialparticipation/po/Platform#Facebook> ;
+    po:triplifiedIn "2015-12-10T07:56:45.228915"^^xsd:datetime ;
+    rdfs:comment "facebook network from RafaelReinehr09042013 . Ego: True. Friendship: True. Interaction: False."^^xsd:string .
+
+<http://purl.org/socialparticipation/po/Platform#Facebook> a po:Platform .
+
