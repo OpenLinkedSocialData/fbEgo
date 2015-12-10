@@ -1,0 +1,16 @@
+This repo delivers RDF data from the facebook
+friendship network of OrlandoCoelho22022014 collected around 2014-02-22.
+251 individuals with metadata ['sex', 'uid', 'locale', 'name', 'agerank']
+and 848 friendships constitute the friendship network in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/OrlandoCoelho22022014_fb/rdf/OrlandoCoelho22022014_fbFriendship.owl
+(anonymized: False).
+Metadata for discovery is in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/OrlandoCoelho22022014_fb/rdf/OrlandoCoelho22022014_fbMeta.owl
+Original files:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/OrlandoCoelho22022014_fb/base/OrlandoCoelho22022014.gdf
+Ego network: True
+Friendship network: True
+Interaction network: False
+All files should be available at the git repository:
+https://github.com/OpenLinkedSocialData/fbEgo/tree/master/OrlandoCoelho22022014_fb
+

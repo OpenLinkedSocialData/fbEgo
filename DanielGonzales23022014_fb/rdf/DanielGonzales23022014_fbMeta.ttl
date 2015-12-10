@@ -1,0 +1,38 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#DanielGonzales23022014_fb> a po:Snapshot ;
+    rdfs:label "Snapshot DanielGonzales23022014_fb"^^xsd:string ;
+    fb:ego true ;
+    fb:fAnon false ;
+    fb:friendAttribute "agerank"^^xsd:string,
+        "locale"^^xsd:string,
+        "name"^^xsd:string,
+        "sex"^^xsd:string,
+        "uid"^^xsd:string ;
+    fb:friendship true ;
+    fb:interaction false ;
+    fb:nFriends 2162 ;
+    fb:nFriendships 45318 ;
+    fb:originalFriendshipFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/DanielGonzales23022014_fb/base/DanielGonzales23022014.gdf"^^xsd:string ;
+    fb:sid "daniel.gonzalezxavier"^^xsd:string ;
+    fb:uid "100002080034739"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/OpenLinkedSocialData/fbEgo/tree/master/DanielGonzales23022014_fb"^^xsd:string ;
+    po:createdAt "2014-02-23"^^xsd:date ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/DanielGonzales23022014_fb/rdf/DanielGonzales23022014_fbMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/DanielGonzales23022014_fb/rdf/DanielGonzales23022014_fbMeta.ttl"^^xsd:string ;
+    po:donatedBy "DanielGonzales23022014"^^xsd:string ;
+    po:friendshipTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/DanielGonzales23022014_fb/rdf/DanielGonzales23022014_fbFriendship.ttl"^^xsd:string ;
+    po:friendshipXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/DanielGonzales23022014_fb/rdf/DanielGonzales23022014_fbFriendship.owl"^^xsd:string ;
+    po:socialProtocol <http://purl.org/socialparticipation/po/Platform#Facebook> ;
+    po:triplifiedIn "2015-12-10T06:55:09.990358"^^xsd:datetime ;
+    rdfs:comment "facebook network from DanielGonzales23022014 . Ego: True. Friendship: True. Interaction: False."^^xsd:string .
+
+<http://purl.org/socialparticipation/po/Platform#Facebook> a po:Platform .
+

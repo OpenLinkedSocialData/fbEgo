@@ -1,0 +1,16 @@
+This repo delivers RDF data from the facebook
+friendship network of DanielGonzales23022014 collected around 2014-02-23.
+2162 individuals with metadata ['locale', 'uid', 'name', 'agerank', 'sex']
+and 45318 friendships constitute the friendship network in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/DanielGonzales23022014_fb/rdf/DanielGonzales23022014_fbFriendship.owl
+(anonymized: False).
+Metadata for discovery is in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/DanielGonzales23022014_fb/rdf/DanielGonzales23022014_fbMeta.owl
+Original files:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/DanielGonzales23022014_fb/base/DanielGonzales23022014.gdf
+Ego network: True
+Friendship network: True
+Interaction network: False
+All files should be available at the git repository:
+https://github.com/OpenLinkedSocialData/fbEgo/tree/master/DanielGonzales23022014_fb
+
