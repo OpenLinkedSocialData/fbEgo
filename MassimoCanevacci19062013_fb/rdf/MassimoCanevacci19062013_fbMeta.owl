@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#MassimoCanevacci19062013_fb">
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-10T22:02:22.210897</po:triplifiedIn>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1327838394</fb:uid>
+    <fb:nFriendships rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59995</fb:nFriendships>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">agerank</fb:friendAttribute>
+    <fb:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">massimo.canevacci</fb:sid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">name</fb:friendAttribute>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facebook network from MassimoCanevacci19062013 . Ego: True. Friendship: True. Interaction: False.</rdfs:comment>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/MassimoCanevacci19062013_fb/rdf/MassimoCanevacci19062013_fbMeta.ttl</po:discoveryTTLFile>
+    <po:friendshipTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/MassimoCanevacci19062013_fb/rdf/MassimoCanevacci19062013_fbFriendship.ttl</po:friendshipTTLFile>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sex</fb:friendAttribute>
+    <po:friendshipXMLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/MassimoCanevacci19062013_fb/rdf/MassimoCanevacci19062013_fbFriendship.owl</po:friendshipXMLFile>
+    <po:socialProtocol rdf:resource="http://purl.org/socialparticipation/po/Platform#Facebook"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot MassimoCanevacci19062013_fb</rdfs:label>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uid</fb:friendAttribute>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MassimoCanevacci19062013</po:donatedBy>
+    <fb:originalFriendshipFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/MassimoCanevacci19062013_fb/base/MassimoCanevacci19062013.gdf</fb:originalFriendshipFile>
+    <fb:interaction rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:interaction>
+    <fb:fAnon rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:fAnon>
+    <fb:friendship rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:friendship>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/fbEgo/tree/master/MassimoCanevacci19062013_fb</po:availableAt>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-19</po:createdAt>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbEgo/master/MassimoCanevacci19062013_fb/rdf/MassimoCanevacci19062013_fbMeta.owl</po:discorveryRDFFile>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">locale</fb:friendAttribute>
+    <fb:ego rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:ego>
+    <fb:nFriends rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4764</fb:nFriends>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Platform#Facebook">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Platform"/>
+  </rdf:Description>
+</rdf:RDF>
