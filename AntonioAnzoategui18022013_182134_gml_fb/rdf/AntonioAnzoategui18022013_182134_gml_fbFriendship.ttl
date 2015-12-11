@@ -1,0 +1,699 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_0> a fb:Participant ;
+    fb:agerank 52 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_17>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_18>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_30>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_31>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_32>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_34>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_38>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_39>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_43>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_45>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_48>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_51>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_7> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Ricardo Fabbri"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 137 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_1> a fb:Participant ;
+    fb:agerank 51 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_2>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_21>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_29>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_4>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_41>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_5>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_6>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_7>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_9> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Saruana Martins"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 416 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_3> a fb:Participant ;
+    fb:agerank 49 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_41>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_6> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Lorena Robaldo"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 240 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_50> a fb:Participant ;
+    fb:agerank "Elisângela Corretora"^^xsd:string ;
+    fb:locale 2 ;
+    fb:sex "pt_BR"^^xsd:string ;
+    fb:wallcount "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_8> a fb:Participant ;
+    fb:agerank 44 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_41>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_49> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Carla Jacob"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 90 .
+
+fb:friend a owl:SymmetricProperty .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_2> a fb:Participant ;
+    fb:agerank 50 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_5>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_6> ;
+    fb:locale "en_GB"^^xsd:string ;
+    fb:name "Dora Garrido"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 164 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_22> a fb:Participant ;
+    fb:agerank 30 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_35>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_36>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_42>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_46> ;
+    fb:locale "it_IT"^^xsd:string ;
+    fb:name "Jackeline França"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 116 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_4> a fb:Participant ;
+    fb:agerank 48 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_29>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_33>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_35>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_36>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_37>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_40>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_44>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_6> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Marina Zorzetto"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 457 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_12> a fb:Participant ;
+    fb:agerank 40 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_15>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_36> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Marlene Coura"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 138 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_13> a fb:Participant ;
+    fb:agerank 39 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_24> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Maria Eugenia Anzoategui"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 431 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_17> a fb:Participant ;
+    fb:agerank 35 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_18>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_30>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_32>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_34>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_38>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_39>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_43>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_45>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_48>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_51> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Francisco Lopes"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 54 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_46> a fb:Participant ;
+    fb:agerank 6 ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Dei Bambini"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 8 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_5> a fb:Participant ;
+    fb:agerank 47 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_21>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_41>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_6>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_7>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_9> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Lio Lopes"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 1045 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_11> a fb:Participant ;
+    fb:agerank 41 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_25>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_41> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Camila Zimmermann"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 338 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_14> a fb:Participant ;
+    fb:agerank 38 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_15> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Thalita Araujo"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 266 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_18> a fb:Participant ;
+    fb:agerank 34 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_30>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_31>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_32>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_38>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_39>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_43>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_45>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_48> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Graziela Ferrari"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 46 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_25> a fb:Participant ;
+    fb:agerank 27 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_41>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_47> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Líbera Copetti"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 368 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_47> a fb:Participant ;
+    fb:agerank 5 ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Ivone Copetti"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 23 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_15> a fb:Participant ;
+    fb:agerank 37 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_33>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_35>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_36>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_37>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_40>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_44> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Roseli Machado de Sena"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 61 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_19> a fb:Participant ;
+    fb:agerank 33 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_29>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_33>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_36>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_37>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_40>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_44> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Jerusa Ramon Grassmann"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 145 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_7> a fb:Participant ;
+    fb:agerank 45 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_17>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_18>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_21>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_30>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_31>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_32>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_33>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_34>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_38>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_39>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_43>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_45>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_48>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_51>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_9> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Renato Fabbri"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 224 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_9> a fb:Participant ;
+    fb:agerank 43 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_21>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_41>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_49> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Cristiano Melli"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 410 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_20> a fb:Participant ;
+    fb:agerank 32 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_21>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_26> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Jennifer Montenegro"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 213 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_23> a fb:Participant ;
+    fb:agerank 29 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_30>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_31>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_32>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_34>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_38>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_39>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_43>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_45>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_48>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_51> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Consuelo Corrêa"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 155 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_28> a fb:Participant ;
+    fb:agerank 24 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_29>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_33>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_35>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_36>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_37>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_40>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_44> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Patrícia Queiroz"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 267 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_42> a fb:Participant ;
+    fb:agerank 10 ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Fernanda Carneiro"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 68 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_6> a fb:Participant ;
+    fb:agerank 46 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_13>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_15>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_21>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_29>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_33>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_35>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_36>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_37>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_40>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_41>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_42>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_44>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_7>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_9> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Carlos Anzoategui Neto"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 288 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_27> a fb:Participant ;
+    fb:agerank 25 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_30>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_31>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_32>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_34>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_38>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_39>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_43>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_45>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_48>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_51> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Thais Teixeira Fabbri"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 300 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_49> a fb:Participant ;
+    fb:agerank 3 ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Cala Jacob"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 43 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_30> a fb:Participant ;
+    fb:agerank 22 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_31>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_32>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_34>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_38>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_39>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_43>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_45>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_48>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_51> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Claudia Guarani-Kaiowá Lopes"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 90 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_31> a fb:Participant ;
+    fb:agerank 21 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_32>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_34>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_38>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_39>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_43>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_45>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_48>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_51> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Fernanda Costa Corrêa"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 428 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_21> a fb:Participant ;
+    fb:agerank 31 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_29>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_35> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Thiago Becker"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 488 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_26> a fb:Participant ;
+    fb:agerank 26 ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Bruna Kemper"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 181 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_32> a fb:Participant ;
+    fb:agerank 20 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_34>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_38>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_39>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_43>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_45>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_48>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_51> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Cynthia Muller"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 300 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_34> a fb:Participant ;
+    fb:agerank 18 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_38>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_39>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_45>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_48>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_51> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Mariana Albiero Ferreira"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 186 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_29> a fb:Participant ;
+    fb:agerank 23 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_33>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_36>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_37>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_40>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_44> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Jana Ramon"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 139 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_10> a fb:Participant ;
+    fb:agerank 42 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_13>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_15>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_21>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_22>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_25>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_29>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_30>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_31>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_33>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_35>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_36>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_37>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_38>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_39>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_40>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_41>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_42>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_43>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_44>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_45>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_46>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_47>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_49>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_51> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Priscila Guarani-Kaiowá Anzoategui"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 211 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_33> a fb:Participant ;
+    fb:agerank 19 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_35>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_36>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_37>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_40>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_44> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Ednalva Santana"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 137 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_35> a fb:Participant ;
+    fb:agerank 17 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_37>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_42> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Amanda Ferro Pessoa"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 172 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_37> a fb:Participant ;
+    fb:agerank 15 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_40>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_44> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Mariana Santana Silva Honório"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 82 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_38> a fb:Participant ;
+    fb:agerank "Mayara Costa"^^xsd:string ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_39>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_43>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_45>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_48>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_51> ;
+    fb:locale 14 ;
+    fb:sex "pt_BR"^^xsd:string ;
+    fb:wallcount "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_40> a fb:Participant ;
+    fb:agerank 12 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_44> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Paulo Santana"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 31 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_41> a fb:Participant ;
+    fb:agerank "Maíra Yuka"^^xsd:string ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_49> ;
+    fb:locale 11 ;
+    fb:sex "pt_BR"^^xsd:string ;
+    fb:wallcount "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_36> a fb:Participant ;
+    fb:agerank 16 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_37>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_40>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_44> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Lucas Santana Silva"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 111 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_39> a fb:Participant ;
+    fb:agerank 13 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_43>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_45>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_48>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_51> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "D Lux Joias Joalheria"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 25 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_43> a fb:Participant ;
+    fb:agerank 9 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_45>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_48>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_51> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Maryah Costa"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 340 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_44> a fb:Participant ;
+    fb:agerank 8 ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Silvia Vitor"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 153 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_24> a fb:Participant ;
+    fb:agerank 28 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_25>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_29>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_33>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_35>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_36>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_40>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_41>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_47>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_49> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Leonardo Copetti"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 165 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_16> a fb:Participant ;
+    fb:agerank 36 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_21>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_29>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_33>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_35>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_36>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_37>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_41>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_42>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_44>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_49> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Larissa Guarani Kaiowá Anzoategui"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 502 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_45> a fb:Participant ;
+    fb:agerank 7 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_48>,
+        <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_51> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:name "Mari Lopes Guarani-Kaiowá"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 18 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_48> a fb:Participant ;
+    fb:agerank 4 ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_51> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "Isabella Dantas"^^xsd:string ;
+    fb:sex "female"^^xsd:string ;
+    fb:wallcount 92 .
+
+<http://purl.org/socialparticipation/fb/Participant#AntonioAnzoategui18022013_182134_gml-user_51> a fb:Participant ;
+    fb:agerank 1 ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:name "José Cláudio da Costa"^^xsd:string ;
+    fb:sex "male"^^xsd:string ;
+    fb:wallcount 12 .
+
